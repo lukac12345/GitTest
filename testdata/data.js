@@ -23,3 +23,5 @@ export const dataZakaznici = {
 export const dataBlacklist = {
     nazovCD: 'Cest.doklad',    
 }
+
+export const nova = {}
