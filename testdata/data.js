@@ -24,6 +24,7 @@ export const dataBlacklist = {
     nazovCD: 'Cest.doklad',    
 }
 
-export const nova = {
-    adresa: "Smrekova 1"
+export const adresa = {
+    ulica: "Smrekova 1",
+    psc: "010 07"
 }
