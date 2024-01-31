@@ -25,6 +25,7 @@ export const dataBlacklist = {
 }
 
 export const adresa = {
+    mesto: 'Zilina',
     ulica: "Smrekova 1",
     psc: "010 07"
 }
