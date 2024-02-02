@@ -28,5 +28,5 @@ export const adresa = {
     mesto: 'Zilina',
     ulica: "Smrekova 1",
     psc: "010 07",
-    stat: "SK",
+    stat: "Slovensko",
 }
